@@ -18,6 +18,9 @@
       "build": "react-scripts build"
     },
     "eslintConfig": {
+      "rules": {
+        "no-unused-vars": "off"
+      },
       "extends": "react-app"
     },
     "browserslist": {
